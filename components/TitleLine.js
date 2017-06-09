@@ -4,10 +4,14 @@ import ReactDOM from 'react-dom'
 export default class TitleLine extends Component {
 
   componentDidMount(){
-    console.log("mounted!!");
+    console.log("titleline mounted!!");
   }
 
   render() {
+
+    let moviedata = [];
+
+
     return (
       <div>
         <p>Title Bar</p>

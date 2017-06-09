@@ -2,11 +2,10 @@ import 'babel-polyfill'
 import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css';
-import TitleLine from './components/TitleLine'
+import App from './components/App'
 
 
 ReactDOM.render(
-  <div><p>First test</p>
-    </div>,
+  <App />,
   document.getElementById('root')
 )
