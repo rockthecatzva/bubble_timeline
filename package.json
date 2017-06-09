@@ -1,0 +1,22 @@
+{
+  "name": "bubble_timeline",
+  "version": "1.0.0",
+  "description": "A d3.js visualization of timelines with circular bubbles marking important events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockthecatzva/bubble_timeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockthecatzva/bubble_timeline/issues"
+  },
+  "homepage": "https://github.com/rockthecatzva/bubble_timeline#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
